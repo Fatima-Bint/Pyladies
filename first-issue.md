@@ -1,23 +1,14 @@
 ---
-description: >-
-  This is the Pyladies newsletter space, which is going to be shared with
-  members every month through emails.
+description: May Newsletter  - Introduction to Pyladies
 ---
 
-# Newsletter
-
-## Sections to cover
+# First Issue
 
 ### Introduction
 
 * Updates from the community
 * Updates from the tech community
 * Updates from Python Ghana and Pyladies Ghana
-
-### Tutorials (make use of links)
-
-* Beginners corner
-* Experts/ Pros corner
 
 ### Tip for the month
 
