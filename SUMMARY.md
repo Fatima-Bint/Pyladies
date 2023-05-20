@@ -1,5 +1,12 @@
 # Table of contents
 
-* [Newsletter](README.md)
-* [First Issue](first-issue.md)
-* [Page 1](page-1.md)
+* [Pyladies IWD blog post](README.md)
+* [Pyladies Night - Volunteer with PyLadies Ghana](pyladies-night-volunteer-with-pyladies-ghana.md)
+
+## Newsletter
+
+* [Topics](newsletter/topics.md)
+
+***
+
+* [Python programming tutorials and best practices](python-programming-tutorials-and-best-practices.md)
