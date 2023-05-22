@@ -22,9 +22,11 @@ Let's jump right into it, shall we? Hold on tight, Pyladies, because this newsle
 
 ### What is Pyladies?
 
+Pyladies Ghana is a community-driven organization based in Ghana that aims to support and encourage women's participation and leadership in technology, particularly in the field of Python programming. They provide a platform for women to learn, collaborate, and advance their skills in Python programming through workshops, meetups, and mentorship programs.
 
+### Highlights and Events
 
-
+Pyladies night
 
 ### Tip for the month
 
@@ -53,6 +55,16 @@ Talk about a lady in the community
 * Speaker
 * CFP
 
+
+
 ### Readers Suggestions
 
 * Things to cover in next issue
+
+### Social Media Handles
+
+Twitter: [https://twitter.com/pyladiesghana](https://twitter.com/pyladiesghana)
+
+Instagram:
+
+LinkedIn
