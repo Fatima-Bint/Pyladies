@@ -1,6 +1,6 @@
 # Pyladies Night - Volunteer with PyLadies Ghana
 
-The community's first PyLadies night for 2023 was hosted on Twitter Space with an engaging panel discussion on the theme "Volunteer with PyLadies Ghana; Empower Your Network, Empower Your Career." The panel featured three of our PyLadies as speakers: Yaa Nuamah, Abigail Afi Maame, and Theresa Seyram. We will be delving into the key takeaways and valuable insights shared during this enlightening discussion.
+The community's first PyLadies Night for 2023 was hosted on Twitter Space with an engaging panel discussion on the theme "Volunteer with PyLadies Ghana; Empower Your Network, Empower Your Career." The panel featured three of our PyLadies as speakers: Yaa Nuamah, Abigail Afi Maame, and Theresa Seyram. We will be delving into the key takeaways and valuable insights shared during this enlightening discussion.
 
 ### Overview of the Panel Discussion:&#x20;
 
