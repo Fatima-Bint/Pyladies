@@ -1,13 +1,62 @@
-# Pyladies IWD blog post
+---
+description: How to set up your talk or tutorial proposal for a Python conference
+---
 
-International Women's Day is a time to reflect on the achievements and struggles of women throughout history. This year, Pyladies Ghana took the opportunity to focus on the UN global theme "DigitALL: Innovation and Technology for Gender Equality.". The event highlighted the role that innovation and technology can play in achieving gender equality and encouraged women in technology to be agents of change.
+# PyLadies Night With Cheuk Ting Ho
 
-A panel discussion was held at the event featuring accomplished women from diverse technology backgrounds, including artificial intelligence, machine learning, data science, open source contribution, and software engineering. These trailblazing women, namely Miss Deborah Kanubala, Miss Naa Ashiorkor Nortey, Miss Aseda Addai-Deseh, Miss Lily Edinam Botsyoe, Miss Abigail Mesrenyame Dogbe, and Miss Afi Maame Dufie, have made outstanding contributions to STEM in Ghana, paving the way for future generations of women to pursue careers in technology with confidence.
+On Saturday, July 29, Pyladies Ghana had another insightful session of our monthly Pyladies Night series where we hosted the excellent Cheuk Ting Ho to share her expertise on “How to set up your talk or tutorial proposal for a Python conference”.
 
-During the panel discussion, panellists highlighted the critical role of diversity and representation in the technology industry. The panellists firmly believe that championing gender equality in technology can create a more inclusive and diverse tech community. Drawing from their personal experiences and insights, the panellists also emphasized that women can effect significant change in the industry regardless of their position or level. Furthermore,  they stressed the importance of mentorship and support for women who are starting their careers in technology. By offering guidance and backing to budding female tech professionals, the panellists hope to facilitate the growth and success of women in the industry.
+Cheuk is an avid open-source contributor and organizer of PyData London and Humble Data community events. She’s also a PSF Director and fellow and an advocate for Open-source software (OSS) Security.
 
-In addition to discussing the importance of gender equality and diversity in technology, the event panellists also highlighted the need to address systemic barriers that prevent women from pursuing careers in STEM. Specifically, the panellists stressed the significance of early exposure to technology for girls and providing access to the internet in rural areas. They believe that these actions can help break down long-standing obstacles and encourage more women to enter and thrive in STEM fields.
+She started out as a data scientist, learned about conferences, joined a supportive community, and took the chance to submit her first proposal, which was rejected.
 
-Moreover, the panellists emphasized the critical role of machine learning fairness in the pursuit of gender equality in technology. By identifying and mitigating biases in hiring practices, promotion, and algorithmic design, we can create a more equitable and just society for women and other underrepresented groups in STEM. Overall, the event highlighted the importance of promoting diversity and inclusion in technology, as well as the need for continued efforts to overcome barriers and create a more equitable future.
+She went ahead to submit another one at another conference, and it was accepted, and she kept at it until she switched careers to developer relations (DevRel) to start giving talks full-time.&#x20;
 
-In summary, the commemoration of International Women's Day serves as a pivotal moment to acknowledge and honor the accomplishments of women while reiterating our commitment to the ongoing pursuit of gender parity. Pyladies Ghana remains steadfast in its resolve to leverage technology and innovative practices to advance gender equality and foster an all-encompassing tech industry. We extend an open invitation to join us in our unwavering mission towards a future characterized by equality for all.
+#### Why should I speak publicly?
+
+Cheuk divided the reasons why a person might be interested in speaking publicly into two categories:
+
+Personal Gain: Some of which include:
+
+1. Showing and sharing one’s knowledge, especially with potential future employers.
+2. Build credibility.
+3. Being able to voice opinions on specific topics
+4. Build a career out of it for example DelRel roles.
+
+and Community Gain
+
+#### How exactly do I start?
+
+Find a safe environment. It might be any of the following:
+
+* Local meetups with supportive audiences
+* Internal events at the workplace (if it is a supportive environment)
+* Communities that support inclusion and diversity
+* Events that have an effective Code of Conduct (CoC)
+* Look for online events that accept recorded talks
+
+Mentorship
+
+* Join a Mentorship program (e.g. EuroPython)
+* Ask a colleague or friend to help guide and rehearse your talk.
+* Ask in a supportive community
+
+It is highly recommended to start your public speaking journey with a lightning talk(5-10 (5–10 minutes). Look out for recorded or live talks in order not to get overwhelmed by having to give a physical talk, and finally, **Do Not do Live Demos**.
+
+#### Tips to look out for when submitting a proposal&#x20;
+
+* Do it before the deadline
+* Talk about something that you care about
+* A use case at work may be a good start
+* Avoid sales pitches
+* Deliver the educational value of the talk (why should people attend your talk)
+* State that you identify as a minority in tech
+
+And remember, it is totally okay and common to have your proposal rejected. Don’t give up; try again. Perhaps you can make a career out of it.
+
+Watch the recording of the session to learn more about how to go about your first speaking opportunity and find out the new phrase she coined together with her friend
+
+\
+
+
+\
